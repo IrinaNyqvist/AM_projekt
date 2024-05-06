@@ -1,4 +1,4 @@
-# AM_projekt
+# Hummelbacken
 
 Hello IsabellaSundberg! Thanks for using this template.
 
